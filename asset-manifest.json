@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BishalBasakPapan-portfolio/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/BishalBasakPapan-portfolio/static/js/main.55267553.chunk.js",
-    "main.js.map": "/BishalBasakPapan-portfolio/static/js/main.55267553.chunk.js.map",
-    "runtime-main.js": "/BishalBasakPapan-portfolio/static/js/runtime-main.cad67d0a.js",
-    "runtime-main.js.map": "/BishalBasakPapan-portfolio/static/js/runtime-main.cad67d0a.js.map",
-    "static/js/2.98970e87.chunk.js": "/BishalBasakPapan-portfolio/static/js/2.98970e87.chunk.js",
-    "static/js/2.98970e87.chunk.js.map": "/BishalBasakPapan-portfolio/static/js/2.98970e87.chunk.js.map",
-    "static/js/3.4ff3e8b0.chunk.js": "/BishalBasakPapan-portfolio/static/js/3.4ff3e8b0.chunk.js",
-    "static/js/3.4ff3e8b0.chunk.js.map": "/BishalBasakPapan-portfolio/static/js/3.4ff3e8b0.chunk.js.map",
-    "index.html": "/BishalBasakPapan-portfolio/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/BishalBasakPapan-portfolio/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.98970e87.chunk.js.LICENSE.txt": "/BishalBasakPapan-portfolio/static/js/2.98970e87.chunk.js.LICENSE.txt",
-    "static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf": "/BishalBasakPapan-portfolio/static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf"
+    "main.css": "/Bishal-Basak-Papan_portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Bishal-Basak-Papan_portfolio/static/js/main.5d980e77.chunk.js",
+    "main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/main.5d980e77.chunk.js.map",
+    "runtime-main.js": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.02181eac.js",
+    "runtime-main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.02181eac.js.map",
+    "static/js/2.98970e87.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js",
+    "static/js/2.98970e87.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js.map",
+    "static/js/3.4ff3e8b0.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/3.4ff3e8b0.chunk.js",
+    "static/js/3.4ff3e8b0.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/3.4ff3e8b0.chunk.js.map",
+    "index.html": "/Bishal-Basak-Papan_portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Bishal-Basak-Papan_portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.98970e87.chunk.js.LICENSE.txt": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js.LICENSE.txt",
+    "static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf": "/Bishal-Basak-Papan_portfolio/static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.cad67d0a.js",
+    "static/js/runtime-main.02181eac.js",
     "static/js/2.98970e87.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.55267553.chunk.js"
+    "static/js/main.5d980e77.chunk.js"
   ]
 }
