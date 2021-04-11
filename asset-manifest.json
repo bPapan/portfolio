@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/Bishal-Basak-Papan_portfolio/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Bishal-Basak-Papan_portfolio/static/js/main.cfa44da8.chunk.js",
-    "main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/main.cfa44da8.chunk.js.map",
-    "runtime-main.js": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.02181eac.js",
-    "runtime-main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.02181eac.js.map",
-    "static/js/2.98970e87.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js",
-    "static/js/2.98970e87.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js.map",
-    "static/js/3.4ff3e8b0.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/3.4ff3e8b0.chunk.js",
-    "static/js/3.4ff3e8b0.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/3.4ff3e8b0.chunk.js.map",
+    "main.js": "/Bishal-Basak-Papan_portfolio/static/js/main.81f8fff2.chunk.js",
+    "main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/main.81f8fff2.chunk.js.map",
+    "runtime-main.js": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.0941457f.js",
+    "runtime-main.js.map": "/Bishal-Basak-Papan_portfolio/static/js/runtime-main.0941457f.js.map",
+    "static/css/2.098cfe87.chunk.css": "/Bishal-Basak-Papan_portfolio/static/css/2.098cfe87.chunk.css",
+    "static/js/2.15976a24.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/2.15976a24.chunk.js",
+    "static/js/2.15976a24.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/2.15976a24.chunk.js.map",
+    "static/js/3.30aa5926.chunk.js": "/Bishal-Basak-Papan_portfolio/static/js/3.30aa5926.chunk.js",
+    "static/js/3.30aa5926.chunk.js.map": "/Bishal-Basak-Papan_portfolio/static/js/3.30aa5926.chunk.js.map",
     "index.html": "/Bishal-Basak-Papan_portfolio/index.html",
+    "static/css/2.098cfe87.chunk.css.map": "/Bishal-Basak-Papan_portfolio/static/css/2.098cfe87.chunk.css.map",
     "static/css/main.9d5b29c0.chunk.css.map": "/Bishal-Basak-Papan_portfolio/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.98970e87.chunk.js.LICENSE.txt": "/Bishal-Basak-Papan_portfolio/static/js/2.98970e87.chunk.js.LICENSE.txt",
+    "static/js/2.15976a24.chunk.js.LICENSE.txt": "/Bishal-Basak-Papan_portfolio/static/js/2.15976a24.chunk.js.LICENSE.txt",
     "static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf": "/Bishal-Basak-Papan_portfolio/static/media/Resume_Bishal_Basak_Papan.f2b6e693.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.02181eac.js",
-    "static/js/2.98970e87.chunk.js",
+    "static/js/runtime-main.0941457f.js",
+    "static/css/2.098cfe87.chunk.css",
+    "static/js/2.15976a24.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.cfa44da8.chunk.js"
+    "static/js/main.81f8fff2.chunk.js"
   ]
 }

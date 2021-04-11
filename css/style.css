@@ -2540,9 +2540,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
+  background-image: -moz-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%);
+  background-image: -webkit-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%);
+  background-image: -ms-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
@@ -2918,7 +2918,7 @@ h6 {
     color: #777777;
     margin-bottom: 15px; }
   .news_widget .input-group input {
-    height: 40px;
+    height: 30px;
     background: transparent;
     border-radius: 0px;
     width: 80%;
@@ -2983,10 +2983,18 @@ h6 {
 
 .copy_right_text {
   text-align: center;
-  margin-top: 60px; }
+  margin-top: 40px; }
   .copy_right_text p a {
     color: #766dff; }
 
+.photo {
+      height: 150px;
+      width: 250px;
+}
+
+.special {
+    cursor: pointer;
+}
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
