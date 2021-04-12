@@ -132,7 +132,7 @@ button:focus {
     border: 0px;
     border-radius: 0px; }
     .header_area .navbar .nav .nav-item {
-      margin-right: 45px; }
+      margin-right: 35px; }
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 12px/120px "Roboto", sans-serif;
         text-transform: uppercase;
@@ -158,7 +158,7 @@ button:focus {
               position: absolute;
               top: 120%;
               left: 0px;
-              min-width: 200px;
+              min-width: 100px;
               text-align: left;
               opacity: 0;
               transition: all 300ms ease-in;
@@ -197,7 +197,7 @@ button:focus {
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:last-child {
               border-bottom: none; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-              background: #766dff;
+              background: #88dfaf;
               color: #fff; }
         @media (min-width: 992px) {
           .header_area .navbar .nav .nav-item.submenu:hover ul {
@@ -2563,6 +2563,10 @@ h6 {
       font-family: "Roboto", sans-serif;
       border: 1px solid #9ab5f5;
       background: rgba(125, 0, 225, 25); }
+      .tabs_inner .nav.nav-tabs li a:hover {
+        color: rgb(218, 214, 214);
+        text-decoration: none;
+      }
       .tabs_inner .nav.nav-tabs li a.active {
         background: #fff;
         color: #222222; }
@@ -2617,12 +2621,118 @@ h6 {
       font-size: 19px;
       text-transform: uppercase;
       margin-bottom: 20px; }
+      .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 a{
+        color: rgba(255, 234, 234, 0.788);
+        text-decoration: none;
+        background-color: transparent;
+        -webkit-text-decoration-skip: objects; }
+        .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 a:hover {
+          color: rgba(241, 178, 178, 0.788);
+          text-decoration: none;
+        }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
       color: rgba(255, 255, 255, 0.75);
       margin-bottom: 0px; }
+      .tabs_inner .tab-content .tab-pane .list li .media .media-body p a{
+        color: rgba(255, 234, 234, 0.788);
+        text-decoration: none;
+        background-color: transparent;
+        -webkit-text-decoration-skip: objects; }
+        .tabs_inner .tab-content .tab-pane .list li .media .media-body p a:hover {
+          color: rgba(241, 178, 178, 0.788);
+          text-decoration: none;
+        }
 
 /* End My Tabs Area css
 ============================================================================================ */
+
+/* Research Area css
+============================================================================================ */
+.mytabs2_area {
+  background-image: -moz-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
+  background-image: -webkit-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
+  background-image: -ms-linear-gradient(0deg, #ffffff 0%, #ffffff 100%); }
+
+.tabs_inner .nav.nav-tabs {
+  display: block;
+  text-align: center;
+  border: none;
+  margin-bottom: 100px; }
+  .tabs_inner .nav.nav-tabs li {
+    display: inline-block;
+    margin-right: 50px; }
+    .tabs_inner .nav.nav-tabs li a {
+      margin: 0px;
+      line-height: 50px;
+      border-radius: 5px;
+      padding: 0px 40px;
+      font-size: 13px;
+      font-weight: 500;
+      color: #fff;
+      font-family: "Roboto", sans-serif;
+      border: 1px solid #9ab5f5;
+      background: rgba(125, 0, 225, 25); }
+      .tabs_inner .nav.nav-tabs li a.active {
+        background: #fff;
+        color: #222222; }
+
+.tabs_inner .tab-content .tab-pane .list2 {
+  max-width: 800px;
+  margin: auto;
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 60px; }
+  .tabs_inner .tab-content .tab-pane .list2:before {
+    content: "";
+    height: 100%;
+    width: 5px;
+    background: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    left: 46%;
+    transform: translateX(-50%);
+    top: -5px; }
+  .tabs_inner .tab-content .tab-pane .list2 li {
+    margin-bottom: 60px;
+    position: relative; }
+    .tabs_inner .tab-content .tab-pane .list2 li span {
+      height: 15px;
+      width: 15px;
+      border-radius: 50%;
+      display: block;
+      background: rgba(255, 255, 255, 0.2);
+      position: absolute;
+      left: 46%;
+      top: 30px;
+      transform: translateX(-50%); }
+      .tabs_inner .tab-content .tab-pane .list2 li span:before {
+        content: '';
+        height: 7px;
+        width: 7px;
+        background: #fff;
+        border-radius: 50%;
+        position: absolute;
+        left: 52%;
+        top: 4px;
+        transform: translateX(-50%); }
+    .tabs_inner .tab-content .tab-pane .list2 li:last-child {
+      margin-bottom: 20px; }
+    .tabs_inner .tab-content .tab-pane .list2 li .media .media2-body h4 {
+      color: rgb(100, 100, 120);
+      font-size: 18px;
+      font-family: "Heebo", sans-serif;
+      margin-bottom: 8px; }
+      .tabs_inner .tab-content .tab-pane .list2 li .media .media2-body h4 a{
+        color: rgb(50, 50, 50);
+        text-decoration: none;
+        background-color: transparent;
+        -webkit-text-decoration-skip: objects; }
+        .tabs_inner .tab-content .tab-pane .list2 li .media .media2-body h4 a:hover {
+          color: rgb(125, 125, 125);
+          text-decoration: none;
+        }
+    .tabs_inner .tab-content .tab-pane .list2 li .media .media2-body p {
+      color: rgba(0, 0, 0, 0.75);
+      margin-bottom: 20px; }
 /* Feature Area css
 ============================================================================================ */
 .feature_area {
