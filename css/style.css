@@ -293,7 +293,7 @@ button:focus {
   background-image: -moz-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
   background-image: -webkit-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
   background-image: -ms-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
-  margin-bottom: 0px; }
+  margin-bottom: 100px; }
   .home_banner_area .box_1620 {
     /* min-height: 700px; */
     min-height: auto;
