@@ -2603,7 +2603,7 @@ h6 {
         content: '';
         height: 7px;
         width: 7px;
-        background: #fff;
+        background: rgba(44, 10, 68, 0.701);
         border-radius: 50%;
         position: absolute;
         left: 52%;
