@@ -2614,11 +2614,11 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
       padding-right: 120px; }
       .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
-        color: rgba(23, 0, 0, 0.126);
+        color: rgba(0, 1, 23, 0.637);
         margin-bottom: 0px;
         padding-top: 20px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
-      color: rgba(30, 0, 0, 0);
+      color: rgba(6, 19, 52, 0.653);
       font-size: 19px;
       text-transform: uppercase;
       margin-bottom: 20px; }
@@ -2632,10 +2632,10 @@ h6 {
           text-decoration: none;
         }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      color: rgba(37, 1, 1, 0.126);
+      color: rgba(15, 16, 61, 0.126);
       margin-bottom: 0px; }
       .tabs_inner .tab-content .tab-pane .list li .media .media-body p a{
-        color: rgba(2, 9, 136, 0.301);
+        color: rgba(2, 9, 136, 0.779);
         text-decoration: none;
         background-color: transparent;
         -webkit-text-decoration-skip: objects; }
