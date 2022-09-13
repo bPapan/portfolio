@@ -290,9 +290,9 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
-  background-image: -webkit-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
-  background-image: -ms-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
+  background-image: -moz-linear-gradient(0deg, #b2acff 0%, #f2feff 100%);
+  background-image: -webkit-linear-gradient(0deg, #b2acff 0%, #f2feff 100%);
+  background-image: -ms-linear-gradient(0deg, #b2acff 0%, #f2feff 100%);
   margin-bottom: 0px; }
   .home_banner_area .box_1620 {
     /* min-height: 700px; */
@@ -2560,7 +2560,7 @@ h6 {
       padding: 0px 40px;
       font-size: 13px;
       font-weight: 500;
-      color: #fff;
+      color: rgba(255, 255, 255, 0);
       font-family: "Roboto", sans-serif;
       border: 1px solid #9ab5f5;
       background: rgba(125, 0, 225, 25); }
