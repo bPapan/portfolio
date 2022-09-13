@@ -2623,7 +2623,7 @@ h6 {
       text-transform: uppercase;
       margin-bottom: 20px; }
       .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 a{
-        color: rgba(0, 0, 108, 0.912);
+        color: rgba(16, 16, 47, 0.912);
         text-decoration: none;
         background-color: transparent;
         -webkit-text-decoration-skip: objects; }
@@ -2632,7 +2632,7 @@ h6 {
           text-decoration: none;
         }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      color: rgba(0, 0, 0, 0.666);
+      color: rgba(0, 0, 0, 0.775);
       margin-bottom: 0px; }
       .tabs_inner .tab-content .tab-pane .list li .media .media-body p a{
         color: rgba(2, 9, 136, 0.956);
