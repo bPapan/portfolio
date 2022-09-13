@@ -2632,7 +2632,7 @@ h6 {
           text-decoration: none;
         }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      color: rgba(15, 16, 61, 0.126);
+      color: rgb(0, 0, 0);
       margin-bottom: 0px; }
       .tabs_inner .tab-content .tab-pane .list li .media .media-body p a{
         color: rgba(2, 9, 136, 0.956);
