@@ -293,12 +293,12 @@ button:focus {
   background-image: -moz-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
   background-image: -webkit-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
   background-image: -ms-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
-  margin-bottom: 50px; }
+  margin-bottom: 0px; }
   .home_banner_area .box_1620 {
     min-height: 700px;
     border-radius: 8px;
     position: relative;
-    bottom: 0px;
+    bottom: -100px;
     background: #fff;
     padding: 15px;
     box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.3); }
