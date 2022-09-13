@@ -2565,11 +2565,11 @@ h6 {
       border: 1px solid #9ab5f5;
       background: rgba(125, 0, 225, 25); }
       .tabs_inner .nav.nav-tabs li a:hover {
-        color: rgb(218, 214, 214);
+        color: rgba(218, 214, 214, 0.304);
         text-decoration: none;
       }
       .tabs_inner .nav.nav-tabs li a.active {
-        background: #fff;
+        background: rgba(255, 255, 255, 0.408);
         color: #222222; }
 .tabs_inner .tab-content .tab-pane .list {
   max-width: 600px;
