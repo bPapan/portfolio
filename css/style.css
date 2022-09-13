@@ -295,7 +295,8 @@ button:focus {
   background-image: -ms-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
   margin-bottom: 0px; }
   .home_banner_area .box_1620 {
-    min-height: 700px;
+    /* min-height: 700px; */
+    min-height: auto;
     border-radius: 8px;
     position: relative;
     bottom: -100px;
