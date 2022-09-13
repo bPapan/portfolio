@@ -2541,9 +2541,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%);
-  background-image: -webkit-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%);
-  background-image: -ms-linear-gradient(0deg, #1c0bfd 0%, #8ad6df 100%); }
+  background-image: -moz-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
+  background-image: -webkit-linear-gradient(0deg, #ffffff 0%, #ffffff 100%);
+  background-image: -ms-linear-gradient(0deg, #ffffff 0%, #ffffff 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
