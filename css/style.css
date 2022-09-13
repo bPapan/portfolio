@@ -2628,11 +2628,11 @@ h6 {
         background-color: transparent;
         -webkit-text-decoration-skip: objects; }
         .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 a:hover {
-          color: rgba(1, 12, 71, 0.84);
+          color: rgba(47, 67, 134, 0.71);
           text-decoration: none;
         }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
-      color: rgb(0, 0, 0);
+      color: rgba(0, 0, 0, 0.775);
       margin-bottom: 0px; }
       .tabs_inner .tab-content .tab-pane .list li .media .media-body p a{
         color: rgba(2, 9, 136, 0.956);
