@@ -293,9 +293,9 @@ button:focus {
   background-image: -moz-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
   background-image: -webkit-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
   background-image: -ms-linear-gradient(0deg, #b2acff 0%, #acd0d4 100%);
-  margin-bottom: 200px; }
+  margin-bottom: 10px; }
   .home_banner_area .box_1620 {
-    min-height: 900px;
+    min-height: 700px;
     border-radius: 12px;
     position: relative;
     bottom: -200px;
