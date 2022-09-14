@@ -3,6 +3,32 @@
 .welcome_area{
 }
 .welcome_inner{
+	.nav.nav-tabs{
+		display: block;
+		text-align: center;
+		border: none;
+		margin-bottom: 120px;
+		li{
+			display: inline-block;
+			margin-right: 8px;
+			a{
+				margin: 0px;
+				line-height: 50px;
+				border-radius: 5px;
+				padding: 0px 40px;
+				font-size: 13px;
+				font-weight: 500;
+				color: #fff;
+				font-family: $rob;
+				border: 1px solid #9ab5f5;
+				background: rgba(255, 255, 255, .1);
+				&.active{
+					background: #fff;
+					color: $dip;
+				}
+			}
+		}
+	}
 	.welcome_img{
 		background: #eeeeee;
 		margin-left: 40px;
