@@ -2462,41 +2462,38 @@ h6 {
 /*----------------------------------------------------*/
 /* Welcome Area css
 ============================================================================================ */
-.welcome_area {
-  background: #eeeeee;
-}
-.welcome_area .nav.nav-tabs {
-  display: block;
-  text-align: center;
-  border: none;
-  margin-bottom: 120px; }
-  .welcome_area .nav.nav-tabs li {
-    display: inline-block;
-    margin-right: 50px; }
-    .welcome_area .nav.nav-tabs li a {
-      margin: 0px;
-      line-height: 50px;
-      border-radius: 5px;
-      padding: 0px 40px;
-      font-size: 13px;
-      font-weight: 500;
-      color: rgba(255, 255, 255, 0);
-      font-family: "Roboto", sans-serif;
-      border: 1px solid #d29af539;
-      background: rgba(125, 0, 225, 25); }
-      .welcome_area .nav.nav-tabs li a:hover {
-        color: rgba(218, 214, 214, 0.304);
-        text-decoration: none;
-      }
-      .welcome_area .nav.nav-tabs li a.active {
-        background: rgba(255, 255, 255, 0.408);
-        color: #222222; }
 .welcome_inner .welcome_img {
   background: #eeeeee;
   margin-left: 40px;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px; }
+  .welcome_inner .nav.nav-tabs {
+    display: block;
+    text-align: center;
+    border: none;
+    margin-bottom: 120px; }
+    .welcome_inner .nav.nav-tabs li {
+      display: inline-block;
+      margin-right: 50px; }
+      .welcome_inner .nav.nav-tabs li a {
+        margin: 0px;
+        line-height: 50px;
+        border-radius: 5px;
+        padding: 0px 40px;
+        font-size: 13px;
+        font-weight: 500;
+        color: rgba(255, 255, 255, 0);
+        font-family: "Roboto", sans-serif;
+        border: 1px solid #d29af539;
+        background: rgba(125, 0, 225, 25); }
+        .welcome_inner .nav.nav-tabs li a:hover {
+          color: rgba(218, 214, 214, 0.304);
+          text-decoration: none;
+        }
+        .welcome_inner .nav.nav-tabs li a.active {
+          background: rgba(255, 255, 255, 0.408);
+          color: #222222; }
   .welcome_inner .welcome_img img {
     margin-top: -30px; }
 
