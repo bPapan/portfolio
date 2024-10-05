@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/portfolio/" />
+    <script type="text/javascript">
+      // Get the current pathname and search query
+      var pathname = window.location.pathname;
+      var search = window.location.search;
+
+      // GitHub Pages serves content under /portfolio/ so we need to add that base to the path
+      var newPath = '/portfolio' + pathname + search;
+
+      // Redirect the user to the correct URL path
+      window.location.replace(newPath);
+    </script>
   </head>
   <body>
-    <p>If you are not redirected automatically, follow this <a href="/portfolio/">link</a>.</p>
+    <p>Redirecting...</p>
   </body>
 </html>
