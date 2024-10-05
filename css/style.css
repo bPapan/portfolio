@@ -2361,7 +2361,7 @@ h6 {
 ============================================================================================ */
 .main_btn {
   display: inline-block;
-  background-image: linear-gradient(to right, #ffffff 0%, #949696 48%, #000000 100%);
+  background-image: linear-gradient(to right, #949686 0%, #949696 48%, #000000 100%);
   background-size: 200% auto;
   padding: 0px 40px;
   color: #fff;
