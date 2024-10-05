@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
+    <!-- <title>Page Not Found</title> -->
     <script type="text/javascript">
-      // Get the current pathname and search query
-      var pathname = window.location.pathname;
-      var search = window.location.search;
+      // Try to get the last visited path from sessionStorage
+      var lastPath = sessionStorage.getItem('lastPath');
 
-      // Check if the pathname already starts with /portfolio
-      if (!pathname.startsWith('/portfolio')) {
-        // If it doesn't, prepend /portfolio to the path
-        var newPath = '/portfolio' + pathname + search;
-        window.location.replace(newPath);
+      if (lastPath) {
+        // If lastPath exists, redirect to that path
+        window.location.replace(lastPath);
+      } else {
+        // Fallback to the main portfolio page if lastPath does not exist
+        window.location.replace('/portfolio/');
       }
     </script>
   </head>
