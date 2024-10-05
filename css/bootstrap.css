@@ -2474,6 +2474,18 @@ fieldset:disabled a.btn {
     border-color: #e5f0fc
 }
 
+.btn-secondary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #3094fe;
+    border-color: #3094fe
+}
+
 .btn-primary.focus,
 .btn-primary:focus {
     box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .5)
