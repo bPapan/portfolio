@@ -6,11 +6,12 @@
       var pathname = window.location.pathname;
       var search = window.location.search;
 
-      // GitHub Pages serves content under /portfolio/ so we need to add that base to the path
-      var newPath = '/portfolio' + pathname + search;
-
-      // Redirect the user to the correct URL path
-      window.location.replace(newPath);
+      // Check if the pathname already starts with /portfolio
+      if (!pathname.startsWith('/portfolio')) {
+        // If it doesn't, prepend /portfolio to the path
+        var newPath = '/portfolio' + pathname + search;
+        window.location.replace(newPath);
+      }
     </script>
   </head>
   <body>
