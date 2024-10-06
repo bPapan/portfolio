@@ -9266,6 +9266,14 @@ a.text-dark:hover {
     visibility: hidden !important
 }
 
+.responsive-image {
+    width: 100%; /* Allow the image to take the full width of its container */
+    height: auto; /* Maintain aspect ratio by adjusting height automatically */
+    max-width: 450px; /* Set a maximum width to prevent it from getting too large */
+    max-height: 562px; /* Set a maximum height if needed */
+    object-fit: cover; /* Ensure the image covers the area without stretching */
+}
+
 @media print {
     *,
     ::after,
