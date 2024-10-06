@@ -4098,6 +4098,28 @@ input[type=submit].btn-block {
     list-style: none
 }
 
+.nav-link-basic {
+    text-decoration: none; /* Remove default underline */
+    position: relative; /* Set position for pseudo-element */
+    color: #000000; /* Ensure the text color is consistent */
+}
+
+.nav-link-basic::after {
+    content: ''; /* Create an empty content for the underline */
+    display: block; /* Make it a block element */
+    height: 2px; /* Adjust the thickness of the underline */
+    background: #000; /* Set the underline color */
+    width: 0; /* Start with width 0 for animation */
+    position: absolute; /* Position it relative to the nav-link */
+    left: 0; /* Align it to the left */
+    bottom: -5px; /* Adjust to place it just below the text */
+    transition: width 0.3s ease; /* Animation for width */
+}
+
+.nav-link-basic:hover::after {
+    width: 100%; /* Expand underline to full width on hover */
+}
+
 .nav-link {
     display: block;
     padding: .5rem 1rem
